@@ -1,1 +1,2 @@
-acaranta/docker-rsyslog 
+alpine/socat
+byrnedo/snmp
