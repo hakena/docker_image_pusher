@@ -1,2 +1,2 @@
-ambassador/snmp-relay
-bryanhuntnysmith/docker-rsyslog
+ambassador/snmp-relay:latest
+bryanhuntnysmith/docker-rsyslog:latest
