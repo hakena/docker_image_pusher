@@ -1,1 +1,1 @@
-bryanhuntnysmith/docker-rsyslog
+docker-rsyslog
